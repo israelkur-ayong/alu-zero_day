@@ -1,2 +1,1 @@
-This is the README for alu-zero_day
-This 
+This is the README for the git directory
